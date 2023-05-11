@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akirayago" alt="akirayago" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 I’m currently working on [WebPortfolio](https://github.com/AkiraYago/WebPortfolio.git)
+
+- 🌱 I’m currently learning **Full Stack Development, English**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1d0_y764vyyV9HUVikVoceqel1Ww9T5l-?usp=sharing](https://drive.google.com/drive/folders/1d0_y764vyyV9HUVikVoceqel1Ww9T5l-?usp=sharing)
 
